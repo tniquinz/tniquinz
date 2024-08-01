@@ -7,8 +7,7 @@
 ### Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"></br>
-<img align="center" alt="html5" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"&gt;
-
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"&gt;
+
 
 </div>
