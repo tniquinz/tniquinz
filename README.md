@@ -1,4 +1,4 @@
-### Olá! Eu sou @tniquinz👋
+### Prazer! Eu sou @tniquinz👋
 
 
 ![nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=tniquinz&show_icons=true&theme=tokyonight)
